@@ -7,6 +7,6 @@ I have a problem with my code! It doesn't work.
 Could you help me?
 
 ```javascript
-let 1word = 'Hello, world!';
+let word = 'Hello, world!';
 alert(word);
 ```
